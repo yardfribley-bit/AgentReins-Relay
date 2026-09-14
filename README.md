@@ -65,6 +65,9 @@ known router such as OpenRouter, and an unverified OpenAI-compatible relay.
 See [Architecture](docs/ARCHITECTURE.md) for the trust model and first delivery
 boundary.
 
+See [Research Map](docs/RESEARCH.md) for the relay-security and black-box model
+fingerprinting papers guiding the implementation.
+
 ## AgentReins family
 
 - **AgentReins Trace** — understand what an agent did.
@@ -73,4 +76,3 @@ boundary.
 - **AgentReins Code** — independently inspect generated code.
 - **AgentReins Web** — inspect external content used by agents.
 - **AgentReins Verify** — verify whether the requested outcome was achieved.
-
