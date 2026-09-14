@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+target/
+DerivedData/
+*.log
+*.sqlite
+*.sqlite3
+.env
