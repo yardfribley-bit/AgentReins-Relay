@@ -6,3 +6,4 @@ DerivedData/
 *.sqlite
 *.sqlite3
 .env
+research/papers/
